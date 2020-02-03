@@ -1,1 +1,1 @@
-console.log(11111111111222)
+console.log(00)
